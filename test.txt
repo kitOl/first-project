@@ -1,1 +1,0 @@
-This my first test file. It now remove and commited.
