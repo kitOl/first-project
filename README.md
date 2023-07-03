@@ -61,7 +61,7 @@ git config --global user.name "User Namovich"
 git config --global user.email username@yandex.ru
 # здесь нужно указать свой настоящий email
 ```
-Все глобальные настройки Git хранит в файле .gitconfig в домашней директории. Убедимся в этом:
+Все глобальные настройки Git хранит в файле **.gitconfig** в домашней директории. Убедимся в этом:
 ```
 cat ~/.gitconfig
 ```
@@ -262,7 +262,7 @@ git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git
 Также можно нажать правую кнопку мыши и выбрать пункт Paste (англ. «вставить») в выпадающем меню.
 
 
-## бедиться, что репозитории связаны
+## Убедимся, что репозитории связаны
 ```
 $ git remote -v
 origin    git@github.com:%ИМЯ_АККАУНТА%/%ИМЯ-ПРОЕКТА%.git (fetch)
